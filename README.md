@@ -1,4 +1,4 @@
-![logo](https://github.com/Alfais5/Alfais5/blob/main/Aspiring%20Data%20Analyst%202.0.png)
+![logo](https://github.com/Alfais5/Alfais5/blob/main/Data%20Analyst%202.0.png)
 <h1 align="center">Hi 👋, I'm Mohammed Alfais</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
